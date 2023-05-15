@@ -1,0 +1,11 @@
+.calculadora {
+    width: 200px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+
+  input[type="button"] {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+  }
